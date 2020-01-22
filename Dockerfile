@@ -1,8 +1,4 @@
-# Build environment for LineageOS
-
 FROM ubuntu:16.04
-MAINTAINER Michael Stucki <michael@stucki.io>
-
 
 ENV \
 # ccache specifics
